@@ -90,7 +90,7 @@ particlesJS('particles-js',
         },
         "onclick": {
           "enable": true,
-          "mode": "repulse"
+          "mode": "grab"
         },
         "resize": true
       },
