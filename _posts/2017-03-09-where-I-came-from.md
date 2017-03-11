@@ -2,7 +2,7 @@
 layout: post
 title:  "Where I came from ..."
 date:   2017-03-09
-tags: 博客 
+tags: 博客
 ---
 
 ## 介绍
