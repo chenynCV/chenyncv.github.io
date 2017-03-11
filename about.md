@@ -17,4 +17,4 @@ title: About me
 
 QQ: 1756538768
 
-github: https://github.com/chenynCV
+[github](https://github.com/chenynCV): https://github.com/chenynCV
