@@ -1,4 +1,10 @@
+<!--
 <header class="panel-cover {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}" style="background-image: url('/images/background-cover.jpg')">
+-->
+<header class="panel-cover {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}">
+  
+   <div id="particles-js" class="panel-cover--overlay {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}"></div>
+  
   <div class="panel-main">
 
     <div class="panel-main__inner panel-inverted">
@@ -61,4 +67,8 @@
     <div class="panel-cover--overlay cover-disabled"></div>
     {% endif %}
   </div>
+
+  <script src="../particles.js"></script>
+  <script src="../js/app.js"></script>
+
 </header>
